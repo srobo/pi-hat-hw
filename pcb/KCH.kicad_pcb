@@ -6414,7 +6414,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810220913_Hubei-KENTO-Elec-KT-0603B_C2288.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6438,7 +6438,7 @@
 				)
 			)
 		)
-		(property "JLC" "C72041"
+		(property "JLC" "C2288"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22583,7 +22583,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2k2"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22631,7 +22631,7 @@
 				)
 			)
 		)
-		(property "JLC" "C11702"
+		(property "JLC" "C25879"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22832,7 +22832,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810220913_Hubei-KENTO-Elec-KT-0603B_C2288.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22856,7 +22856,7 @@
 				)
 			)
 		)
-		(property "JLC" "C72041"
+		(property "JLC" "C2288"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26133,7 +26133,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2k2"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26181,7 +26181,7 @@
 				)
 			)
 		)
-		(property "JLC" "C11702"
+		(property "JLC" "C25879"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")

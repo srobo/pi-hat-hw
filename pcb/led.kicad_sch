@@ -3527,7 +3527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810220913_Hubei-KENTO-Elec-KT-0603B_C2288.pdf"
 			(at 152.4 121.92 0)
 			(effects
 				(font
@@ -3545,7 +3545,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C72041"
+		(property "JLC" "C2288"
 			(at 152.4 121.92 0)
 			(effects
 				(font
@@ -3589,7 +3589,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2k2"
 			(at 154.94 132.7149 0)
 			(effects
 				(font
@@ -3625,7 +3625,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C11702"
+		(property "JLC" "C25879"
 			(at 152.4 131.445 0)
 			(effects
 				(font
@@ -4880,7 +4880,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2k2"
 			(at 186.69 88.2649 0)
 			(effects
 				(font
@@ -4916,7 +4916,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C11702"
+		(property "JLC" "C25879"
 			(at 184.15 86.995 0)
 			(effects
 				(font
@@ -6381,7 +6381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1810220913_Hubei-KENTO-Elec-KT-0603B_C2288.pdf"
 			(at 184.15 77.47 0)
 			(effects
 				(font
@@ -6399,7 +6399,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C72041"
+		(property "JLC" "C2288"
 			(at 184.15 77.47 0)
 			(effects
 				(font
