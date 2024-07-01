@@ -4556,6 +4556,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" ""
+			(at 58.42 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01a3fefd-c501-4de5-942f-4109b34930aa")
 		)
@@ -4615,6 +4624,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.185 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" ""
 			(at 83.185 165.1 0)
 			(effects
 				(font
@@ -4690,6 +4708,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" ""
+			(at 58.42 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a4e2c05-719c-46c5-bba2-5a3c1d7050e1")
 		)
@@ -4757,6 +4784,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" ""
+			(at 83.185 180.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80cb0566-1fa3-4437-b1f2-a42eaa41232d")
 		)
@@ -4812,6 +4848,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 69.215 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" ""
 			(at 69.215 87.63 0)
 			(effects
 				(font
@@ -5001,6 +5046,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C51721"
+			(at 236.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ec5b6e1a-160b-4500-a9c7-7c9d74beb34d")
 		)
@@ -5023,7 +5077,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "05b42443-4e19-4534-a6d5-3fd419f2f9c9")
 		(property "Reference" "J2"
@@ -5063,6 +5117,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 230.505 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" ""
 			(at 230.505 52.705 0)
 			(effects
 				(font
@@ -5265,6 +5328,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 66.675 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C110044"
 			(at 66.675 38.1 0)
 			(effects
 				(font
@@ -5538,6 +5610,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C11702"
+			(at 230.505 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6226296f-677b-46b8-b8a7-fb9e66f19eaf")
 		)
@@ -5599,6 +5680,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 29.845 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" ""
 			(at 29.845 36.83 0)
 			(effects
 				(font
@@ -5938,6 +6028,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C51721"
+			(at 240.665 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e6ccf74-ace4-4ef7-87d9-f8d580556dff")
 		)
@@ -6075,6 +6174,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C81193"
+			(at 214.63 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d189e3c-bd8d-45a8-82ec-92d4185aa645")
 		)
@@ -6156,6 +6264,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 48.895 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C307331"
 			(at 48.895 38.1 0)
 			(effects
 				(font
@@ -6319,7 +6436,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "de242990-129c-41d4-9c48-35043f997db4")
 		(property "Reference" "J4"
@@ -6359,6 +6476,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 161.925 118.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" ""
 			(at 161.925 118.745 0)
 			(effects
 				(font
@@ -6574,6 +6700,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 196.215 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C307331"
 			(at 196.215 36.195 0)
 			(effects
 				(font
