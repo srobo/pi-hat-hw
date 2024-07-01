@@ -17891,7 +17891,7 @@
 				)
 			)
 		)
-		(property "Value" "AP63200T"
+		(property "Value" "AP62300T"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17939,7 +17939,7 @@
 				)
 			)
 		)
-		(property "JLC" ""
+		(property "JLC" "C1883519"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")

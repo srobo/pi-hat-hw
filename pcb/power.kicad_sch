@@ -6861,7 +6861,7 @@
 				)
 			)
 		)
-		(property "Value" "AP63200T"
+		(property "Value" "AP62300T"
 			(at 111.76 58.42 0)
 			(effects
 				(font
@@ -6896,7 +6896,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" ""
+		(property "JLC" "C1883519"
 			(at 111.76 66.04 0)
 			(effects
 				(font
