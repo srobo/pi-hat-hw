@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "KCH - Raspberry Pi HAT")
-		(date "2022-07-15")
-		(rev "B (S3L2)")
+		(date "2024-07-05")
+		(rev "C (S4L3)")
 		(company "Student Robotics")
 	)
 	(layers
@@ -37065,7 +37065,7 @@
 		(layer "F.Fab")
 		(uuid "c95655d0-18f8-44e6-b8e3-dd81ebffbd3d")
 	)
-	(gr_text "Student Robotics\nKCH V1 Rev B"
+	(gr_text "Student Robotics\nKCH V1 Rev C"
 		(at 111.25 98.75 0)
 		(layer "B.SilkS")
 		(uuid "5c33e122-84ff-4a8d-ba83-88468da1ca72")
