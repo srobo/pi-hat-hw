@@ -19164,7 +19164,7 @@
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D1"
-			(at -4.5 -2.45 360)
+			(at -4.5 -2.45 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "773fa0b4-c77b-4c94-bba8-5f7103ce297f")
@@ -19412,7 +19412,7 @@
 			(uuid "ca18ea09-c0fd-44a4-aa35-56a3b9e1d1ac")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -3 0.05 360)
+			(at -3 0.05 0)
 			(layer "F.Fab")
 			(uuid "2adcff3d-d7a7-4473-9a94-f8b66b71a630")
 			(effects
@@ -26619,7 +26619,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_BOURNS-SF-0603S200-2_C1972443.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26643,7 +26643,7 @@
 				)
 			)
 		)
-		(property "JLC" "C122965"
+		(property "JLC" "C1972443"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34931,7 +34931,7 @@
 			(uuid "617b87ba-8ac8-43a1-aa56-6c178c22aa6d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.27 -24.13 360)
+			(at -1.27 -24.13 0)
 			(layer "B.Fab")
 			(uuid "7aa3ed15-0df3-47c6-b6c0-c75b54e5ef98")
 			(effects

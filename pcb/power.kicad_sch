@@ -8043,7 +8043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_BOURNS-SF-0603S200-2_C1972443.pdf"
 			(at 58.42 63.5 0)
 			(effects
 				(font
@@ -8061,7 +8061,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC" "C122965"
+		(property "JLC" "C1972443"
 			(at 58.42 63.5 0)
 			(effects
 				(font
