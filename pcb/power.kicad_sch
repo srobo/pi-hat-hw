@@ -6957,6 +6957,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Rotation Offset" "90"
+			(at 111.76 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fbd3d48-ee0a-45d2-838f-39bb103d8c1d")
 		)

@@ -18062,10 +18062,23 @@
 				)
 			)
 		)
+		(property "JLCPCB Rotation Offset" "90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb8c7d2c-19fc-477b-b2d1-a08ba3a30998")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b972d901-8d26-4685-bdf5-467543b91602/8b3d7efc-42ca-4134-b4ba-0db14eb10d72")
 		(sheetname "Power")
 		(sheetfile "power.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start 0 -1.56)
 			(end -0.8 -1.56)
