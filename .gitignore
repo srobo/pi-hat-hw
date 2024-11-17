@@ -39,3 +39,5 @@ pcb/jlcpcb/gerber
 pcb/jlcpcb/assembly
 pcb/production
 pcb/bom
+pcb/KCH_panel.kicad*
+pcb/fabrication-toolkit-options.json
