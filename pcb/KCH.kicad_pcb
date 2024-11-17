@@ -5182,7 +5182,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5471,7 +5471,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8085,7 +8085,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16838,7 +16838,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18934,7 +18934,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20248,7 +20248,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21437,7 +21437,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22303,7 +22303,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24083,7 +24083,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31395,7 +31395,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32876,7 +32876,7 @@
 				)
 			)
 		)
-		(property "JLC" "C2912545"
+		(property "JLC" "C5174640"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
